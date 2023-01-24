@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bpf.h": "c",
+        "libbpf.h": "c",
+        "err.h": "c",
+        "common_params.h": "c"
+    }
+}
